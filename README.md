@@ -1,4 +1,4 @@
-# Pix2Pix with VGG19 Perceptual Loss (PyTorch Re-Implementation)
+# Pix2Pix with VGG19 Perceptual Loss 
 
 This repository provides a clean, modern re-implementation of **Pix2Pix** using PyTorch, extended with a **VGG19 perceptual loss** to significantly improve texture quality, sharpness, and structural details in the generated images.
 
