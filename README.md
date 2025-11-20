@@ -176,3 +176,6 @@ _Isola et al., “Image-to-Image Translation with Conditional Adversarial Networ
 
 **Original Repo:**  
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+
+**Authors:** Pratosh Karthikeyan and Shridhar Sunilkumar Pol
+
